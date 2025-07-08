@@ -1,0 +1,14 @@
+conda install xxx（某個程式）
+conda create -n xxx(環境） python=3.3（環境用什麼程式寫）
+conda env list 知道現在有什麼環境
+conda env remove -n xxx（環境）
+activate xxx(進入什麼環境）
+jupyter notebook
+
+dir/w 裡頭有哪些檔
+cd xxx(去哪個路徑）
+mkdir：建立新資料夾，例如 mkdir NewFolder。
+
+
+
+
